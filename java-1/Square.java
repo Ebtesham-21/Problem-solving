@@ -5,6 +5,8 @@ public class Square {
         int input = scan.nextInt();
         int square = input * input;
         System.out.println(square);
+        scan.close();
+       
 
 
     }
