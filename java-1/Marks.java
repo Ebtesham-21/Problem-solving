@@ -5,6 +5,6 @@ public class Marks {
         int number = sc.nextInt();
         String result =  (number >= 33) ? "pass" : "fail";
         System.out.println(result);
-        sc.close();
+        sc.close(); 
     }
 }
