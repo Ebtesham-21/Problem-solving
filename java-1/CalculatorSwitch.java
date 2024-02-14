@@ -8,6 +8,7 @@ public class CalculatorSwitch {
         int b = sc.nextInt();
         System.out.println("operator : ");
         char operator = sc.next().charAt(0);
+        sc.close();
 
         switch(operator) {
             case '+' : System.out.println(a + b);
