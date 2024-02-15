@@ -12,7 +12,7 @@ public class SumOfn {
             i++;
 
         }
-        System.out.println(sum);
+        System.out.println(sum); 
     }
     
 }
